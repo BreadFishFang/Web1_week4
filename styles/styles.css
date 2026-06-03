@@ -1,0 +1,18 @@
+/*this is a CSS comment.*/
+
+body {
+    background-color: rgb(45, 43, 43);
+}
+header {
+    color:bisque;
+}
+h1 {
+    color:bisque;
+}
+article {
+    color:bisque;
+}
+img {
+    width: 50px;
+    height: auto;
+}
